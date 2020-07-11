@@ -28,7 +28,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 For Interests see [Interests](https://sidhua11.github.io/page_1/).
-Code: shooting_clean3.py
+Code: 
+```Python Code
+Import Statements
+
+import pandas as pd
+import numpy as np
+
+import datetime
+
+```
 
 ### Jekyll Themes
 
