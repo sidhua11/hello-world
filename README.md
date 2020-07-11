@@ -30,13 +30,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 For Interests see [Interests](https://sidhua11.github.io/page_1/).
 Code: 
 ```Python Code
-Import Statements
-
 import pandas as pd
 import numpy as np
-
 import datetime
-
 ```
 
 ### Jekyll Themes
