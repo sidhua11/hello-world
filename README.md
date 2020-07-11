@@ -30,6 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 For Interests see [Interests](https://sidhua11.github.io/page_1/).
  PDF: [PDF](https://test/folder/SolutionsAssignment1.pdf)
 Code: 
+
 ```Python Code
 import pandas as pd
 import numpy as np
