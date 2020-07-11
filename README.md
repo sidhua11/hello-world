@@ -32,7 +32,7 @@ PDF: [PDF](SolutionsAssignment1.pdf)
 
 Code
 
-```Python Code
+```markdown
 import pandas as pd
 import numpy as np
 import datetime
