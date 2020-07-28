@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-("nw4ifmqoeeh41.jpg")
+("https://github.com/sidhua11/test/blob/master/nw4ifmqoeeh41.jpg")
 
 
 You can use the [editor on GitHub](https://github.com/sidhua11/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
