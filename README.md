@@ -35,7 +35,6 @@ For Interests see [Interests](https://sidhua11.github.io/page_1/).
 See [LOL](https://sidhua11.github.io/test/about.md).
 Repo: [REPO](https://github.com/sidhua11/)
 PDF: [PDF](SolutionsAssignment1.pdf)
-Page 2: [Click](page_2)
 
 Code
 
